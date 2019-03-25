@@ -1,0 +1,28 @@
+﻿.carousel-title {
+    font-family: Arial;
+    color: black;
+}
+
+.my-carousel {
+    padding: 2%
+}
+
+h4 {
+    padding: 2%;
+}
+
+iframe {
+    max-width: 100%;
+    height: auto;
+}
+
+.games {
+    max-width: 80%;
+    height: auto;
+}
+
+.design {
+    max-width: 100%;
+    height: auto;
+    padding: 2%
+}
